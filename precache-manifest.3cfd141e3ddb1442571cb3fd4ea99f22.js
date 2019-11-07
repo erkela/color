@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49579e5a1533d9d874e9d0ffed4e7bbc",
+    "revision": "1da6b9aa53f23fac511307d6ab1a18c6",
     "url": "/erkela/color/index.html"
   },
   {
-    "revision": "e227fd58049eb945d953",
+    "revision": "8ee7e99ff42beb396cfe",
     "url": "/erkela/color/static/css/main.33b92f94.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/erkela/color/static/js/2.e7b653b2.chunk.js"
   },
   {
-    "revision": "e227fd58049eb945d953",
-    "url": "/erkela/color/static/js/main.7c19e0d1.chunk.js"
+    "revision": "8ee7e99ff42beb396cfe",
+    "url": "/erkela/color/static/js/main.fd57455d.chunk.js"
   },
   {
     "revision": "cfd5da91e84f90b3449e",

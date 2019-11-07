@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/erkela/color/precache-manifest.bf534ffc0b549c6b2069bbf5eff38fbb.js"
+  "/erkela/color/precache-manifest.3cfd141e3ddb1442571cb3fd4ea99f22.js"
 );
 
 self.addEventListener('message', (event) => {
